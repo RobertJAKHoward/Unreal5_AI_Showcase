@@ -1,0 +1,1057 @@
+﻿Log file open, 11/17/22 11:51:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=16608)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BoomerShooter
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Rober\Documents\Unreal Projects\BoomerShooter\BoomerShooter.uproject" -EpicPortal -epicusername="Nameless Peon" -epicuserid=a831d0833fec4a4199f750872e1b3a17 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.819] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f34dd6ec430df73e27e3a3be7f480ea4"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.305143
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-2DEB212C4F644F855B87419643A4567C
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.819] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername="Nameless Peon" -epicuserid=a831d0833fec4a4199f750872e1b3a17 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/EpicGames/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.17-16.51.47:725][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.17-16.51.47:725][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.17-16.51.47:725][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.17-16.51.47:727][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.17-16.51.48:198][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.17-16.51.48:198][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.17-16.51.48:412][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.17-16.51.48:412][  0]LogD3D12RHI: Adapter has 5968MB of dedicated video memory, 0MB of dedicated system memory, and 8102MB of shared system memory, 1 output[s]
+[2022.11.17-16.51.48:443][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.11.17-16.51.48:443][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8102MB of shared system memory, 0 output[s]
+[2022.11.17-16.51.48:456][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.17-16.51.48:456][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8102MB of shared system memory, 0 output[s]
+[2022.11.17-16.51.48:456][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.17-16.51.48:457][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.17-16.51.48:457][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.17-16.51.48:457][  0]LogHAL: Display: Platform has ~ 16 GB [16991354880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.17-16.51.48:457][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.17-16.51.48:457][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.17-16.51.48:457][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.17-16.51.48:457][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.17-16.51.48:457][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.17-16.51.48:457][  0]LogInit: Computer: MSI
+[2022.11.17-16.51.48:457][  0]LogInit: User: Rober
+[2022.11.17-16.51.48:457][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.11.17-16.51.48:457][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.17-16.51.48:457][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.11.17-16.51.48:457][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.17-16.51.48:457][  0]LogMemory: Process Physical Memory: 277.52 MB used, 284.93 MB peak
+[2022.11.17-16.51.48:457][  0]LogMemory: Process Virtual Memory: 229.61 MB used, 229.61 MB peak
+[2022.11.17-16.51.48:457][  0]LogMemory: Physical Memory: 10605.85 MB used,  5598.37 MB free, 16204.22 MB total
+[2022.11.17-16.51.48:457][  0]LogMemory: Virtual Memory: 14151.92 MB used,  13565.69 MB free, 27717.61 MB total
+[2022.11.17-16.51.48:457][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.17-16.51.48:489][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.17-16.51.48:505][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.17-16.51.48:505][  0]LogInit: Using OS detected language (en-US).
+[2022.11.17-16.51.48:505][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.17-16.51.48:507][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.17-16.51.48:692][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.17-16.51.48:702][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.17-16.51.48:702][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.17-16.51.48:703][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.17-16.51.48:717][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.17-16.51.48:717][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.17-16.51.48:915][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.17-16.51.49:568][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.17-16.51.49:568][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.17-16.51.49:803][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.17-16.51.50:087][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.17-16.51.50:095][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.17-16.51.50:134][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.17-16.51.50:314][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.17-16.51.50:314][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.17-16.51.50:351][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.17-16.51.50:351][  0]LogWindows: Attached monitors:
+[2022.11.17-16.51.50:351][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.17-16.51.50:351][  0]LogWindows: Found 1 attached monitors.
+[2022.11.17-16.51.50:351][  0]LogWindows: EnumDisplayDevices:
+[2022.11.17-16.51.50:351][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.17-16.51.50:351][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.17-16.51.50:351][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.17-16.51.50:351][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.17-16.51.50:351][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.11.17-16.51.50:352][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.11.17-16.51.50:352][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.11.17-16.51.50:352][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.11.17-16.51.50:352][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.11.17-16.51.50:352][  0]LogD3D12RHI:   Driver Version: 526.47 (internal:31.0.15.2647, unified:526.47)
+[2022.11.17-16.51.50:352][  0]LogD3D12RHI:      Driver Date: 10-25-2022
+[2022.11.17-16.51.50:352][  0]LogRHI: Texture pool is 3276 MB (70% of 4680 MB)
+[2022.11.17-16.51.50:352][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.17-16.51.50:352][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.17-16.51.50:446][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.17-16.51.50:454][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/BoomerShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/BoomerShooter.uproject"  -platform=all'
+[2022.11.17-16.51.50:454][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/EpicGames/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/BoomerShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/BoomerShooter.uproject"  -platform=all" ]
+[2022.11.17-16.51.50:489][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.17-16.51.50:503][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.17-16.51.50:503][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.17-16.51.50:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.17-16.51.50:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.17-16.51.50:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.17-16.51.50:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.17-16.51.50:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.17-16.51.50:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.17-16.51.50:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.17-16.51.50:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.17-16.51.50:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.17-16.51.50:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.17-16.51.50:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.17-16.51.50:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.17-16.51.50:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.17-16.51.50:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.17-16.51.50:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.17-16.51.50:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.17-16.51.50:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.17-16.51.50:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.17-16.51.50:580][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.17-16.51.50:593][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.17-16.51.50:598][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.17-16.51.50:598][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.17-16.51.50:598][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.17-16.51.50:598][  0]LogTargetPlatformManager:   PCM
+[2022.11.17-16.51.50:602][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.17-16.51.50:602][  0]LogTargetPlatformManager:   BINKA
+[2022.11.17-16.51.50:602][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.17-16.51.50:602][  0]LogTargetPlatformManager:   OGG
+[2022.11.17-16.51.50:602][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.17-16.51.50:602][  0]LogTargetPlatformManager:   OPUS
+[2022.11.17-16.51.50:657][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.11.17-16.51.50:657][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.17-16.51.50:665][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.17-16.51.50:665][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.17-16.51.50:665][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.17-16.51.50:665][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.17-16.51.50:665][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.17-16.51.50:666][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.17-16.51.50:669][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.17-16.51.50:669][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.17-16.51.50:669][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.17-16.51.50:669][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.17-16.51.50:669][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.17-16.51.50:669][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.17-16.51.50:669][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.17-16.51.50:669][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.17-16.51.50:669][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.17-16.51.50:670][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.17-16.51.50:861][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.17-16.51.50:862][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.17-16.51.50:863][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.17-16.51.50:863][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.17-16.51.50:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.17-16.51.50:865][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.17-16.51.50:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.17-16.51.50:865][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.17-16.51.50:889][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.17-16.51.50:889][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.17-16.51.50:889][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.17-16.51.50:906][  0]LogDerivedDataCache: Speed tests for C:/Users/Rober/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.11.17-16.51.50:906][  0]LogDerivedDataCache: Display: Performance to C:/Users/Rober/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=299.80MBs, RandomWriteSpeed=73.31MBs. Assigned SpeedClass 'Local'
+[2022.11.17-16.51.50:907][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rober/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.17-16.51.50:908][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.17-16.51.50:908][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.17-16.51.50:915][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.17-16.51.50:915][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.17-16.51.50:915][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Intermediate/Shaders/WorkingDirectory/14256/).
+[2022.11.17-16.51.50:915][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rober/AppData/Local/Temp/UnrealShaderWorkingDir/91E156D94D35340D21118EA6EA4CC1A3/'.
+[2022.11.17-16.51.50:915][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.17-16.51.50:915][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.11.17-16.51.52:544][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.17-16.51.52:545][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.17-16.51.52:594][  0]LogAssetRegistry: FAssetRegistry took 0.0119 seconds to start up
+[2022.11.17-16.51.52:600][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.17-16.51.52:781][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.17-16.51.52:781][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.17-16.51.53:009][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.17-16.51.53:009][  0]LogDeviceProfileManager: Active device profile: [000007F9C5286740][000007F9BB6D5000 50] WindowsEditor
+[2022.11.17-16.51.53:009][  0]LogDeviceProfileManager: Profiles: [000007F9C5286200][000007F9BB6DA000 50] Windows, [000007F9C5286740][000007F9BB6D5000 50] WindowsEditor, [000007F9C5285940][000007F9BB6D2800 50] WindowsServer, [000007F9C5285B00][000007F9BB5EA000 50] WindowsClient, [000007F9C5283D40][000007F9BB6D7800 50] IOS, [000007F9C5286040][000007F9C54E0000 50] iPadAir2, [000007F9C5285400][000007F9C54E7800 50] IPadPro, [000007F9C5285E80][000007F9C54E5000 50] iPadAir3, [000007F9C5282BC0][000007F9C54EA000 50] iPadAir4, [000007F9C5283100][000007F9C54EC800 50] iPadMini4, [000007F9C5284B40][000007F9A6F25000 50] iPadMini5, [000007F9C5284980][000007F9C5530000 50] iPadMini6, [000007F9C52894C0][000007F9C553A000 50] iPhone6S, [000007F9C5289840][000007F9C5537800 50] iPhone7, [000007F9C5289BC0][000007F9C5535000 50] iPodTouch7, [000007F9C5288500][000007F9C553C800 50] iPhone6SPlus, [000007F9C52824C0][000007F9C54E2800 50] iPhone7Plus, [000007F9C52847C0][000007F9C5510000 50] iPhoneSE, [000007F9C5284EC0][000007F9C5515000 50] iPhone8, [000007F9C5287380][000007F9C5517800 50] iPhone8Plus, [000007F9C5281340][000007F9C551A000 50] iPhoneX, [000007F9C5282680][000007F9C551C800 50] iPhoneXS, [000007F9C5285080][000007F9C5532800 50] iPhoneXSMax, [000007F9C5288180][000007F9C5560000 50] iPhoneXR, [000007F9C5287E00][000007F9C5565000 50] iPhone11, [000007F9C5282840][000007F9C5567800 50] iPhone11Pro, [000007F9C52886C0][000007F9C556A000 50] iPhone11ProMax, [000007F9C5282D80][000007F9C556C800 50] iPhoneSE2, [000007F9C5281DC0][000007F9C5512800 50] iPhone12Mini, [000007F9C5288F80][000007F9C5570000 50] iPhone12, [000007F9C5282300][000007F9C5575000 50] iPhone12Pro, [000007F9C5283640][000007F9C5577800 50] iPhone12ProMax, [000007F9C5284D00][000007F9C557A000 50] iPhone13Mini, [000007F9C5287540][000007F9C557C800 50] iPhone13, [000007F9C5283800][000007F9C5562800 50] iPhone13Pro, [000007F9C52878C0][000007F9C5580000 50] iPhone13ProMax, [000007F9C5283B80][000007F9C5585000 50] iPadPro105, [000007F9C52839C0][000007F9C5587800 50] iPadPro129, [000007F9C5287FC0][000007F9C558A000 50] iPadPro97, [000007F9C5285240][000007F9C558C800 50] iPadPro2_129, [000007F9C5288A40][000007F9C5572800 50] iPad5, [000007F9C5286900][000007F9C55A0000 50] iPad6, [000007F9C5289680][000007F9C55A5000 50] iPad7, [000007F9C5282F40][000007F9C55A7800 50] iPad8, [000007F9C5287C40][000007F9C55AA000 50] iPad9, [000007F9C5285CC0][000007F9C55AC800 50] iPadPro11, [000007F9C5281F80][000007F9C5582800 50] iPadPro2_11, [000007F9C5281500][000007F9C55B0000 50] iPadPro3_11, [000007F9C5282A00][000007F9C55B5000 50] iPadPro3_129, [000007F9C52855C0][000007F9C55B7800 50] iPadPro4_129, [000007F9C5284600][000007F9C55BA000 50] iPadPro5_129, [000007F9C5285780][000007F9C55BC800 50] AppleTV, [000007F9C5288C00][000007F9C55A2800 50] AppleTV4K, [000007F9C5289300][000007F9C55C0000 50] TVOS, [000007F9C528B980][000007F9C55C7800 50] Mac, [000007F9C528B7C0][000007F9C55C5000 50] MacEditor, [000007F9C52840C0][000007F9C55CA000 50] MacClient, [000007F9C528B280][000007F9C55CC800 50] MacServer, [000007F9C528C080][000007F9C55E0000 50] Linux, [000007F9C528C400][000007F9C55E2800 50] LinuxEditor, [000007F9C528BD00][000007F9C55E7800 50] LinuxArm64Editor, [000007F9C5286C80][000007F9C55EA000 50] LinuxArm64, [000007F9C528A800][000007F9C55EC800 50] LinuxClient, [000007F9C528C5C0][000007F9C55B2800 50] LinuxArm64Client, [000007F9C528BEC0][000007F9C55E5000 50] LinuxServer, [000007F9C528BB40][000007F9C54C0000 50] LinuxArm64Server, [000007F9C5284440][000007F9C54C5000 50] Android, [000007F9C528A9C0][000007F9C54C7800 50] Android_Preview_OpenGL, [000007F9C5288DC0][000007F9C54CA000 50] Android_Preview_Vulkan, [000007F9C528C780][000007F9C54CC800 50] Android_Low, [000007F9C52832C0][000007F9C55C2800 50] Android_Mid, [000007F9C5282140][000007F9C55F0000 50] Android_High, [000007F9C5287700][000007F9C55F5000 50] Android_Default, [000007F9C528A100][000007F9C55F7800 50] Android_Adreno4xx, [000007F9C5289D80][000007F9C55FA000 50] Android_Adreno5xx_Low, [000007F9C5289A00][000007F9C55FC800 50] Android_Adreno5xx, [000007F9C5287000][000007F9C54C2800 50] Android_Adreno6xx, [000007F9C528C240][000007F9C5600000 50] Android_Adreno6xx_Vulkan, [000007F9C528AF00][000007F9C5605000 50] Android_Adreno7xx, [000007F9C528B440][000007F9C5607800 50] Android_Adreno7xx_Vulkan, [000007F9C528AD40][000007F9C560A000 50] Android_Mali_T6xx, [000007F9C5283F00][000007F9C560C800 50] Android_Mali_T7xx, [000007F9C528C940][000007F9C55F2800 50] Android_Mali_T8xx, [000007F9C5288880][000007F9C5610000 50] Android_Mali_G71, [000007F9C528A2C0][000007F9C5615000 50] Android_Mali_G72, [000007F9C528D740][000007F9C5617800 50] Android_Mali_G72_Vulkan, [000007F9C5281180][000007F9C561A000 50] Android_Mali_G76, [000007F9C528A640][000007F9C561C800 50] Android_Mali_G76_Vulkan, [000007F9C5286580][000007F9C5602800 50] Android_Mali_G77, [000007F9C528AB80][000007F9C5620000 50] Android_Mali_G77_Vulkan, [000007F9C528D200][000007F9C5625000 50] Android_Mali_G78, [000007F9C528CB00][000007F9C5627800 50] Android_Mali_G78_Vulkan, [000007F9C5281C00][000007F9C562A000 50] Android_Mali_G710, [000007F9C5283480][000007F9C562C800 50] Android_Mali_G710_Vulkan, [000007F9C528E700][000007F9C5612800 50] Android_Xclipse_920, [000007F9C5289F40][000007F9C5630000 50] Android_Xclipse_920_Vulkan, [000007F9C528D040][000007F9C5635000 50] Android_Vulkan_SM5, [000007F9C5288340][000007F9C5637800 50] Android_PowerVR_G6xxx, [000007F9C528EA80][000007F9C563A000 50] Android_PowerVR_GT7xxx, [000007F9C528CCC0][000007F9C563C800 50] Android_PowerVR_GE8xxx, [000007F9C528DAC0][000007F9C5622800 50] Android_PowerVR_GM9xxx, [000007F9C5286E40][000007F9C5640000 50] Android_PowerVR_GM9xxx_Vulkan, [000007F9C528F6C0][000007F9C5645000 50] Android_TegraK1, [000007F9C528B600][000007F9C5647800 50] Android_Unknown_Vulkan, [000007F9C528E540][000007F9C564A000 50] Oculus_Quest, [000007F9C5289140][000007F9C564C800 50] Oculus_Quest2, [000007F9C528CE80][000007F9C5632800 50] HoloLens, 
+[2022.11.17-16.51.53:009][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.17-16.51.53:022][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.17-16.51.53:239][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.17-16.51.53:239][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.17-16.51.53:239][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.17-16.51.53:239][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.17-16.51.53:239][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.17-16.51.53:260][  0]LogNetVersion: BoomerShooter 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3452814593)
+[2022.11.17-16.51.53:400][  0]LogSlate: Border
+[2022.11.17-16.51.53:400][  0]LogSlate: BreadcrumbButton
+[2022.11.17-16.51.53:400][  0]LogSlate: Default
+[2022.11.17-16.51.53:400][  0]LogSlate: Icons.Save
+[2022.11.17-16.51.53:400][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.17-16.51.53:400][  0]LogSlate: ListView
+[2022.11.17-16.51.53:400][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.17-16.51.53:400][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.17-16.51.53:400][  0]LogSlate: TableView.DarkRow
+[2022.11.17-16.51.53:400][  0]LogSlate: TableView.Row
+[2022.11.17-16.51.53:400][  0]LogSlate: TreeView
+[2022.11.17-16.51.53:622][  0]SourceControl: Source control is disabled
+[2022.11.17-16.51.54:098][  0]SourceControl: Source control is disabled
+[2022.11.17-16.51.54:098][  0]SourceControl: Source control is disabled
+[2022.11.17-16.51.54:231][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.17-16.51.54:231][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.11.17-16.51.54:231][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.17-16.51.55:106][  0]LogPython: Using Python 3.9.7
+[2022.11.17-16.51.55:929][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5D88490E40C31897B0C2F297C391AB14 | Instance: DFBBA8B7409A5D3EE4D9AC802A406557 (MSI-14256).
+[2022.11.17-16.51.55:969][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.17-16.51.56:021][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.17-16.51.56:155][  0]SourceControl: Source control is disabled
+[2022.11.17-16.51.56:158][  0]SourceControl: Source control is disabled
+[2022.11.17-16.51.56:165][  0]SourceControl: Source control is disabled
+[2022.11.17-16.51.56:180][  0]LogUProjectInfo: Found projects:
+[2022.11.17-16.51.58:319][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.17-16.51.58:400][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.17-16.51.58:455][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.17-16.51.58:455][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.17-16.51.58:558][  0]LogCollectionManager: Loaded 0 collections in 0.000800 seconds
+[2022.11.17-16.51.58:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Saved/Collections/' took 0.00s
+[2022.11.17-16.51.58:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/Developers/Rober/Collections/' took 0.00s
+[2022.11.17-16.51.58:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/Collections/' took 0.00s
+[2022.11.17-16.51.59:156][  0]LogEngine: Initializing Engine...
+[2022.11.17-16.51.59:259][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.17-16.51.59:262][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.17-16.51.59:532][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.17-16.51.59:532][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.17-16.51.59:543][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.17-16.51.59:575][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.17-16.51.59:576][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.17-16.51.59:601][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.17-16.51.59:601][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.17-16.51.59:601][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.17-16.51.59:602][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.17-16.51.59:602][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.17-16.51.59:602][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-16.51.59:602][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-16.51.59:602][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-16.51.59:602][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-16.51.59:602][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-16.51.59:602][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.17-16.51.59:602][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-16.51.59:602][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-16.51.59:602][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-16.51.59:602][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-16.51.59:602][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-16.51.59:608][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.17-16.52.00:045][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.17-16.52.00:045][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-16.52.00:048][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-16.52.00:048][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-16.52.00:049][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.17-16.52.00:049][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.17-16.52.00:050][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.17-16.52.00:050][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.17-16.52.00:050][  0]LogInit: FAudioDevice initialized.
+[2022.11.17-16.52.00:050][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.17-16.52.00:050][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.17-16.52.00:050][  0]LogInit: Texture streaming: Enabled
+[2022.11.17-16.52.00:087][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.17-16.52.00:095][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.17-16.52.00:122][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.17-16.52.00:131][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.17-16.52.00:131][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.17-16.53.49:649][  0]LogLiveCoding: Display: First instance in process group "UE_BoomerShooter_0x09653350", spawning console
+[2022.11.17-16.53.49:649][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.17-16.53.49:649][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.17-16.53.49:652][  0]LogInit: Transaction tracking system initialized
+[2022.11.17-16.53.49:737][  0]BlueprintLog: New page: Editor Load
+[2022.11.17-16.53.50:340][  0]LocalizationService: Localization service is disabled
+[2022.11.17-16.53.50:462][  0]TimingProfiler: Initialize
+[2022.11.17-16.53.50:462][  0]TimingProfiler: OnSessionChanged
+[2022.11.17-16.53.50:462][  0]LoadingProfiler: Initialize
+[2022.11.17-16.53.50:462][  0]LoadingProfiler: OnSessionChanged
+[2022.11.17-16.53.50:462][  0]NetworkingProfiler: Initialize
+[2022.11.17-16.53.50:462][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.17-16.53.50:462][  0]MemoryProfiler: Initialize
+[2022.11.17-16.53.50:462][  0]MemoryProfiler: OnSessionChanged
+[2022.11.17-16.53.53:751][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/' took 0.01s
+[2022.11.17-16.53.53:751][  0]LogDerivedDataCache: C:/Users/Rober/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.048 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.17-16.53.53:751][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.17-16.53.53:879][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.17-16.53.53:883][  0]SourceControl: Source control is disabled
+[2022.11.17-16.53.53:883][  0]LogUnrealEdMisc: Loading editor; pre map load, took 128.075
+[2022.11.17-16.53.54:783][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/EpicGames/UE_5.0/FeaturePacks/StarterContent.upack)
+[2022.11.17-16.53.56:049][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.11.17-16.53.56:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.11.17-16.53.56:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.11.17-16.53.56:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.11.17-16.53.56:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.11.17-16.53.56:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Maps/StarterMap.umap"
+[2022.11.17-16.53.58:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.11.17-16.53.59:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.11.17-16.53.59:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.11.17-16.53.59:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.11.17-16.53.59:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.11.17-16.53.59:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.11.17-16.53.59:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.11.17-16.53.59:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Door.uasset"
+[2022.11.17-16.53.59:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.11.17-16.53.59:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.11.17-16.53.59:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.11.17-16.53.59:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.11.17-16.53.59:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.11.17-16.53.59:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.11.17-16.53.59:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.11.17-16.53.59:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.11.17-16.53.59:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.11.17-16.53.59:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.11.17-16.53.59:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.11.17-16.53.59:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.11.17-16.53.59:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.11.17-16.53.59:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.11.17-16.53.59:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.11.17-16.53.59:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.11.17-16.53.59:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.11.17-16.53.59:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.11.17-16.53.59:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.11.17-16.53.59:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.11.17-16.53.59:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.11.17-16.53.59:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.11.17-16.53.59:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.11.17-16.53.59:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.11.17-16.54.00:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.11.17-16.54.00:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.11.17-16.54.00:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.11.17-16.54.00:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.11.17-16.54.00:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.11.17-16.54.00:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.11.17-16.54.00:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.11.17-16.54.00:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.11.17-16.54.00:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.11.17-16.54.00:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.11.17-16.54.00:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.11.17-16.54.00:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.11.17-16.54.00:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.11.17-16.54.00:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.11.17-16.54.00:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.11.17-16.54.00:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.11.17-16.54.00:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.11.17-16.54.00:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.11.17-16.54.00:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.11.17-16.54.00:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.11.17-16.54.00:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.11.17-16.54.00:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.11.17-16.54.00:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.11.17-16.54.00:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.11.17-16.54.00:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.11.17-16.54.00:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.11.17-16.54.00:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.11.17-16.54.00:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.11.17-16.54.00:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.11.17-16.54.00:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.11.17-16.54.00:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.11.17-16.54.00:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.11.17-16.54.00:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.11.17-16.54.00:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.11.17-16.54.00:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.11.17-16.54.00:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.11.17-16.54.00:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.11.17-16.54.00:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.11.17-16.54.00:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.11.17-16.54.00:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Fire01.uasset"
+[2022.11.17-16.54.00:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.11.17-16.54.00:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.11.17-16.54.00:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.11.17-16.54.00:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Light01.uasset"
+[2022.11.17-16.54.00:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.11.17-16.54.00:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Light02.uasset"
+[2022.11.17-16.54.00:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.11.17-16.54.00:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.11.17-16.54.00:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.11.17-16.54.00:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.11.17-16.54.00:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.11.17-16.54.00:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.11.17-16.54.00:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.11.17-16.54.00:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.11.17-16.54.00:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.11.17-16.54.00:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Steam01.uasset"
+[2022.11.17-16.54.00:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.11.17-16.54.00:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.11.17-16.54.00:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.11.17-16.54.00:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.11.17-16.54.00:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.11.17-16.54.00:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.11.17-16.54.01:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.11.17-16.54.01:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.11.17-16.54.01:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.11.17-16.54.01:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.11.17-16.54.01:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.11.17-16.54.01:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.11.17-16.54.01:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.11.17-16.54.01:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.11.17-16.54.01:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.11.17-16.54.01:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.11.17-16.54.01:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.11.17-16.54.01:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.11.17-16.54.01:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.11.17-16.54.01:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.11.17-16.54.01:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.11.17-16.54.01:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.11.17-16.54.01:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.11.17-16.54.01:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.11.17-16.54.01:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.11.17-16.54.01:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.11.17-16.54.01:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.11.17-16.54.01:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.11.17-16.54.01:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.11.17-16.54.01:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.11.17-16.54.01:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.11.17-16.54.01:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.11.17-16.54.01:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.11.17-16.54.01:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.11.17-16.54.01:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.11.17-16.54.01:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.11.17-16.54.01:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.11.17-16.54.01:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.11.17-16.54.01:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.11.17-16.54.01:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.11.17-16.54.01:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.11.17-16.54.01:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.11.17-16.54.01:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.11.17-16.54.01:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.11.17-16.54.01:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.11.17-16.54.01:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.11.17-16.54.01:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.11.17-16.54.01:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.11.17-16.54.01:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.11.17-16.54.01:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.11.17-16.54.02:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.11.17-16.54.02:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.11.17-16.54.02:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.11.17-16.54.02:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.11.17-16.54.02:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.11.17-16.54.02:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.11.17-16.54.02:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.11.17-16.54.02:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.11.17-16.54.02:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.11.17-16.54.02:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.11.17-16.54.02:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.11.17-16.54.02:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.11.17-16.54.02:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.11.17-16.54.02:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.11.17-16.54.03:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.11.17-16.54.03:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.11.17-16.54.03:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.11.17-16.54.03:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.11.17-16.54.03:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.11.17-16.54.03:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.11.17-16.54.03:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.11.17-16.54.03:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.11.17-16.54.03:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.11.17-16.54.03:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.11.17-16.54.03:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.11.17-16.54.03:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.11.17-16.54.04:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.11.17-16.54.04:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.11.17-16.54.04:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.11.17-16.54.04:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.11.17-16.54.04:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.11.17-16.54.04:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.11.17-16.54.04:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.11.17-16.54.04:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.11.17-16.54.04:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.11.17-16.54.04:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.11.17-16.54.04:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.11.17-16.54.04:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.11.17-16.54.04:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.11.17-16.54.04:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.11.17-16.54.04:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.11.17-16.54.04:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.11.17-16.54.04:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.11.17-16.54.05:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.11.17-16.54.05:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.11.17-16.54.05:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.11.17-16.54.05:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.11.17-16.54.05:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.11.17-16.54.05:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.11.17-16.54.05:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.11.17-16.54.05:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.11.17-16.54.05:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.11.17-16.54.05:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.11.17-16.54.06:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.11.17-16.54.06:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.11.17-16.54.06:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.11.17-16.54.06:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.11.17-16.54.06:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.11.17-16.54.06:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.11.17-16.54.06:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.11.17-16.54.06:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.11.17-16.54.06:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.11.17-16.54.06:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.11.17-16.54.06:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.11.17-16.54.06:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.11.17-16.54.07:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.11.17-16.54.07:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.11.17-16.54.07:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.11.17-16.54.07:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.11.17-16.54.07:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.11.17-16.54.07:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.11.17-16.54.07:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.11.17-16.54.07:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.11.17-16.54.07:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.11.17-16.54.07:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.11.17-16.54.07:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.11.17-16.54.07:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.11.17-16.54.07:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.11.17-16.54.07:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.11.17-16.54.07:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.11.17-16.54.07:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.11.17-16.54.07:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.11.17-16.54.07:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.11.17-16.54.07:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.11.17-16.54.07:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.11.17-16.54.07:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.11.17-16.54.07:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.11.17-16.54.07:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.11.17-16.54.07:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.11.17-16.54.08:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.11.17-16.54.08:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.11.17-16.54.08:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.11.17-16.54.08:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.11.17-16.54.08:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.11.17-16.54.08:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.11.17-16.54.08:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.11.17-16.54.08:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.11.17-16.54.08:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.11.17-16.54.08:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.11.17-16.54.08:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.11.17-16.54.08:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.11.17-16.54.08:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.11.17-16.54.08:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.11.17-16.54.08:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.11.17-16.54.08:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.11.17-16.54.08:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.11.17-16.54.08:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.11.17-16.54.08:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.11.17-16.54.08:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.11.17-16.54.08:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.11.17-16.54.08:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.11.17-16.54.08:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.11.17-16.54.08:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.11.17-16.54.08:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.11.17-16.54.08:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.11.17-16.54.08:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.11.17-16.54.08:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.11.17-16.54.08:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.11.17-16.54.08:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.11.17-16.54.08:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.11.17-16.54.08:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.11.17-16.54.08:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.11.17-16.54.08:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.11.17-16.54.08:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.11.17-16.54.08:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.11.17-16.54.08:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.11.17-16.54.08:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.11.17-16.54.09:532][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.043729 seconds
+[2022.11.17-16.54.09:755][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Advanced_Lighting_BuiltData
+[2022.11.17-16.54.09:757][  0]LogSavePackage: Moving 'C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Saved/Advanced_Lighting_BuiltData4E297BD749CF026049AC62AE72BFC149.tmp' to 'C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset'
+[2022.11.17-16.54.09:783][  0]LogFeaturePack: Inserted 1 feature packs
+[2022.11.17-16.54.09:785][  0]Cmd: MAP LOAD FILE="C:/Users/Rober/Documents/Unreal Projects/BoomerShooter/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.17-16.54.09:785][  0]LightingResults: New page: Lighting Build
+[2022.11.17-16.54.09:791][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-16.54.09:791][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-16.54.09:791][  0]MapCheck: New page: Map Check
+[2022.11.17-16.54.09:791][  0]LightingResults: New page: Lighting Build
+[2022.11.17-16.54.09:813][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-16.54.09:816][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.17-16.54.11:563][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.11.17-16.54.11:571][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.17-16.54.11:571][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.17-16.54.11:572][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.17-16.54.11:572][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.17-16.54.12:212][  0]LogWorldPartition: Display: WorldPartition initialize took 640 ms
+[2022.11.17-16.54.12:465][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.17-16.54.12:480][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.17-16.54.12:480][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.17-16.54.12:480][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2022.11.17-16.54.12:480][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 2.697
+[2022.11.17-16.54.12:542][  0]LogUnrealEdMisc: Total Editor Startup Time, took 146.734
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: ================================================
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.17-16.54.12:542][  0]LogShaderCompilers: Display: ================================================
+[2022.11.17-16.54.13:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-16.54.13:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-16.54.13:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-16.54.13:509][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-16.54.14:245][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:245][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:246][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:246][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:246][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:246][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:247][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:247][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:248][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:248][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:248][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:248][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:249][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:249][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:249][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:249][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:249][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:249][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:250][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.17-16.54.14:250][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.17-16.54.14:250][  0]LogFeaturePack: Error: Error in Feature pack D:/EpicGames/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.17-16.54.15:378][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.17-16.54.15:452][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.17-16.54.15:483][  0]LogSlate: Took 0.017794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.17-16.54.15:576][  0]LogSlate: Took 0.028314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.17-16.54.15:621][  0]LogSlate: Took 0.041327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.17-16.54.15:729][  0]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2022.11.17-16.54.16:699][  0]LogSlate: Took 0.151889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.17-16.54.18:291][  0]LogStall: Startup...
+[2022.11.17-16.54.18:293][  0]LogStall: Startup complete.
+[2022.11.17-16.54.18:365][  0]LogLoad: (Engine Initialization) Total time: 152.56 seconds
+[2022.11.17-16.54.18:365][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.17-16.54.18:513][  0]AssetCheck: New page: Asset Save: Advanced_Lighting_BuiltData
+[2022.11.17-16.54.18:513][  0]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData
+[2022.11.17-16.54.18:608][  0]LogAssetRegistry: Asset discovery search completed in 146.0156 seconds
+[2022.11.17-16.54.18:613][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.17-16.54.18:614][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.17-17.43.03:242][745]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.17-17.43.03:374][745]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.17-17.43.03:376][745]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.17-17.43.03:376][745]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.17-17.43.03:376][745]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.17-17.43.03:376][745]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.17-17.43.03:376][745]LogWorldPartition: Display: GetPartitionedActors took 309 us
+[2022.11.17-17.43.03:376][745]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.11.17-17.43.03:495][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-17.43.03:578][745]PIE: New page: PIE session: FirstPersonMap (Nov 17, 2022, 7:43:03 AM)
+[2022.11.17-17.43.03:614][745]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.17-17.43.03:643][745]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.17-17.43.03:653][745]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.17-17.43.03:701][745]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.17-17.43.03:706][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052583s)
+[2022.11.17-17.43.03:706][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.053075s)
+[2022.11.17-17.43.03:719][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.17-17.43.03:730][745]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.17-17.43.03:752][745]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.17-17.43.03:752][745]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.17-17.43.03:753][745]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.17-17.43.03:766][745]LogPlayLevel: PIE: World Init took: (0.060454s)
+[2022.11.17-17.43.03:793][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.17-17.43.03:814][745]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.17-17.43.03:814][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-17.43.03:814][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-17.43.03:814][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-17.43.03:814][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-17.43.03:814][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-17.43.03:814][745]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.17-17.43.03:814][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-17.43.03:814][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-17.43.03:815][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-17.43.03:815][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-17.43.03:815][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-17.43.03:816][745]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.17-17.43.03:851][745]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.17-17.43.03:851][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-17.43.03:851][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-17.43.03:851][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-17.43.03:852][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.17-17.43.03:852][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.17-17.43.03:853][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.17-17.43.03:853][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.17-17.43.03:853][745]LogInit: FAudioDevice initialized.
+[2022.11.17-17.43.03:853][745]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2022.11.17-17.43.03:894][745]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.17-17.43.03:896][745]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.17-12.43.03
+[2022.11.17-17.43.03:926][745]LogWorld: Bringing up level for play took: 0.031438
+[2022.11.17-17.43.03:938][745]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.11.17-17.43.04:548][745]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.17-17.43.04:550][745]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.17-17.43.04:624][745]PIE: Server logged in
+[2022.11.17-17.43.04:625][745]PIE: Play in editor total start time 1.301 seconds.
+[2022.11.17-17.43.17:361][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-17.43.17:361][407]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.17-17.43.17:362][407]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-17.43.17:364][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-17.43.17:734][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-17.43.17:756][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-17.43.17:776][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.17-17.43.17:776][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.17-17.43.17:779][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.17-17.43.17:791][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-17.43.17:799][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.17-17.43.17:826][408]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.11.17-17.53.50:996][335]LogDerivedDataCache: C:/Users/Rober/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.077 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.17-17.56.24:809][279]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.11.17-17.56.24:861][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
